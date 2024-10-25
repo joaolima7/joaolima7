@@ -105,13 +105,6 @@ _"A tecnologia move o mundo."_
 
 ---
 
-## 🐍 Snake Animation
-
-![Snake animation](https://github.com/joaolima7/joaolima7/blob/output/github-contribution-grid-snake.svg)
-
-
----
-
 ## 📫 Contato
 
 - **Email:** [joaocaetanodev@gmail.com](mailto:joaocaetanodev@gmail.com)
