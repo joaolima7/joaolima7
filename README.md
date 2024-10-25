@@ -116,7 +116,7 @@ _"A tecnologia move o mundo."_
 
 - **Email:** [joaocaetanodev@gmail.com](mailto:joaocaetanodev@gmail.com)
 - **LinkedIn:** [João Caetano Remonato](https://www.linkedin.com/in/joão-caetano-lima-remonato-5b448827a/)
-- **Portfólio:** [Visite meu site](https://portfolio-joaolima7s-projects.vercel.app](https://portfolio-git-main-joaolima7s-projects.vercel.app/)
+- **Portfólio:** [Visite meu site](https://my-portfolio-joaolima7s-projects.vercel.app/)
 - **Instagram:** [@joaoremonato.dev](https://www.instagram.com/joaoremonato.dev/)
 
 ---
