@@ -60,15 +60,6 @@ Desenvolvedor Mobile & Backend desde 2023, focado em construir soluções robust
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaolima7&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolima7&layout=compact&theme=dracula" height="150"/>
-</p>
-
----
-
 ## 📫 Vamos conversar?
 
 Se você busca um desenvolvedor dedicado, focado em resultados e que entrega com qualidade, entre em contato comigo! 🚀
